@@ -1,0 +1,30 @@
+{
+  "name": "chat-backend",
+  "version": "1.0.0",
+  "description": "real time based",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mandeep-bhatti/chat-backend.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Mandeep singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mandeep-bhatti/chat-backend/issues"
+  },
+  "homepage": "https://github.com/Mandeep-bhatti/chat-backend#readme",
+  "dependencies": {
+    "config": "^3.3.7",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.5.0",
+    "mongoose": "^6.5.0",
+    "socket-io": "^1.0.0"
+  }
+}
