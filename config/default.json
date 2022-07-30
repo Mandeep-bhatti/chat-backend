@@ -1,6 +1,6 @@
 {
   "db": {
-    "url": "mongodb+srv://chatApp_mandeep:mandeep1109@cluster0.564fgyd.mongodb.net/rex_D?retryWrites=true&w=majority"
+    "url": "mongodb+srv://chatApp_mandeep:<#yourpassword>@cluster0.564fgyd.mongodb.net/rex_D?retryWrites=true&w=majority"
   },
   "webServer": {
     "url": "localhost",
